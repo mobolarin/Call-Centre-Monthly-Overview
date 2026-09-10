@@ -1,10 +1,8 @@
 # Call-Centre-Monthly-Overview
+#### End-to-end analytics project (ETL → EDA → Dashboard → Report)
 ##### Performance Analysis, October 2020
 
 **Tools:** Excel (Power Query, PivotTables, PivotCharts)
-**Type:** End-to-end analytics project (ETL → EDA → Dashboard → Report)
-
-
 
 ![Call centre Dashboard](./Images/Dashboard.png)
 
@@ -12,7 +10,7 @@
 
 ### Overview
 
-This project analyses 32,941 customer interactions handled by a call centre organisation across 4 locations, 4 channels, and 50 states for October 2020. The goal was to move beyond a single "customer satisfaction is low" headline and identify *where* - or whether - poor experience is concentrated, so the business knows what to actually fix.
+This project analyses 32,941 customer interactions handled by a call centre organisation across 4 locations, 4 channels, and 50 states for October 2020. The goal was to move beyond a single "customer satisfaction is low" headline and identify *where* - or whether - poor experience is concentrated, so the business knows what actually to fix.
 
 I built this to sharpen my Excel skills after spending most of the year focused on SQL - a full end-to-end workflow from raw data to a polished, interactive dashboard, done entirely in Excel (Power Query for ETL, PivotTables/PivotCharts for analysis and visualisation).
 
