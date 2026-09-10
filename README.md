@@ -6,7 +6,7 @@
 
 
 
-![Call centre Dashboard](./Images/CallCenterDashboard.png)
+![Call centre Dashboard](./Images/Dashboard.png)
 
 ---
 
