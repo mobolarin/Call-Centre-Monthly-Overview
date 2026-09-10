@@ -1,12 +1,9 @@
 # Call-Centre-Monthly-Overview
-#### End-to-end analytics project (ETL → EDA → Dashboard → Report)
-##### Performance Analysis, October 2020
+#### Performance Analysis, October 2020
 
 **Tools:** Excel (Power Query, PivotTables, PivotCharts)
 
 ![Call centre Dashboard](./Images/Dashboard.png)
-
----
 
 ### Overview
 
