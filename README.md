@@ -49,7 +49,7 @@ The dashboard includes:
 
 ### Key Insights
 
-1. **Average CSAT sits at 5.5/10.**
+**1. Average CSAT sits at 5.5/10.**
 
 ![Call centre Dashboard](./Images/KPI's.png)
 - This figure is calculated from only 37% of interactions (CSAT was not captured for majority of the calls), so it should be treated as directional rather than a fully representative organisation-wide score. It's presented here as a KPI, but any decision built on it should account for that coverage gap.
@@ -72,7 +72,7 @@ The dashboard includes:
 5. **Los Angeles/CA and Baltimore/MD carry the bulk of the volume.**
    
 ![Call centre Dashboard](./Images/centres.png)
-- LA/CA handles 13,734 calls and Baltimore/MD 11,012 - together well over 70% of total volume - while Chicago/IL (5,419) and Denver/CO (2,776) handle far less. 
+- Los Angeles/CA handles 13,734 calls and Baltimore/MD 11,012 - together well over 70% of total volume - while Chicago/IL (5,419) and Denver/CO (2,776) handle far less. 
 
 6. **Billing Question dominates reason for contact.**
    
