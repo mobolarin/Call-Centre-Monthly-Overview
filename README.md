@@ -1,7 +1,13 @@
-# Call-Centre-Monthly-Overview
+# Call Centre Monthly Overview Analysis
 #### Performance Analysis, October 2020
 
-### Table of Content
+### Table of Contents
+* [Overview](#overview)
+* [The Problem](#the-problem)
+* [The Approach](#the-approach)
+* [Key Insights](#key-insights)
+* [Business Impact](#business-impact)
+* [Next Steps](#next-steps)
 
 ### Overview
 
@@ -12,7 +18,7 @@ This project analyses 32,941 customer interactions handled by a call centre orga
 
 Sentiment across the dataset skews negative - the immediate question for the business is: **is this a localised problem (a specific centre, channel, or issue type underperforming) or a systemic one?** Those two answers point to completely different fixes - targeted retraining and staffing at a weak site vs. a broader review of process, policy, or product experience. The analysis needed to distinguish between them before recommending anything.
 
-### The Approach/ Process
+### The Approach
 **Tools:** Excel (Power Query, PivotTables, PivotCharts)
 
 **1. ETL: Clean & Prep the Data (Power Query)**
