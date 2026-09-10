@@ -16,7 +16,7 @@ This project analyses 32,941 customer interactions handled by a call centre orga
 
 ### The Problem
 
-Sentiment across the dataset skews negative - the immediate question for the business is: **is this a localised problem (a specific centre, channel, or issue type underperforming) or a systemic one?** Those two answers point to completely different fixes - targeted retraining and staffing at a weak site vs. a broader review of process, policy, or product experience. The analysis needed to distinguish between them before recommending anything.
+Sentiment across the dataset skews negative - the immediate question for the business is: **is this a localised problem (a specific centre, channel, or issue type underperforming) or a systemic one?** Those two answers point to completely different fixes - targeted retraining and staffing at a weak centre vs. a broader review of process, policy, or product experience. The analysis needed to distinguish between them before recommending anything.
 
 ### The Approach
 **Tools:** Excel (Power Query, PivotTables, PivotCharts)
@@ -60,7 +60,7 @@ The dashboard includes:
 **1. Average CSAT sits at 5.5/10.**
 
 ![Call centre Dashboard](./Images/KPI's.png)
-- The average CSAT score is 5.5 out of 10. This is a rating of mediocre or below average. However, this figure is calculated from only 37% of interactions (CSAT was not captured for majority of the calls), so it should be treated as directional rather than a fully representative organisation-wide score. It's presented here as a KPI, but any decision built on it should account for that coverage gap.
+- The average CSAT score is 5.5 out of 10. This is a mediocre or below-average rating. However, this figure is calculated from only 37% of interactions (CSAT was not captured for majority of the calls), so it should be treated as directional rather than a fully representative organisation-wide score. It's presented here as a KPI, but any decision built on it should account for that coverage gap.
 
 **2. Negativity is not concentrated anywhere.**
    
@@ -110,7 +110,7 @@ Because negativity is spread evenly across centres, channels, and reasons rather
 
 2. **Track sentiment and outcomes at the employee/agent level.** This would help surface genuine skill gaps or training needs that a location-level view can't detect, since the location data doesn't show a location-based problem.
 
-3. **Close the CSAT coverage gap.** Prompting all customers (not just ~37%) for a satisfaction score would give the business a reliable, representative KPI rather than a partial one.
+3. **Close the CSAT coverage gap.** Prompting all customers (not just 37%) for a satisfaction score would give the business a reliable, representative KPI rather than a partial one.
 
 ### Next Steps
 
