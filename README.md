@@ -64,7 +64,10 @@ The dashboard includes:
 
 **2. Negativity is not concentrated anywhere.**
    
-![Sentiment](./Images/sentiment.png)
+![Sentimenta](./Images/sentimentbycentre.png)
+![Sentimentb](./Images/sentiment.a.png)
+![Sentimentc](./Images/sentiment.b.png)
+
 - Sentiment distribution is nearly identical across all four call centres (Negative sits at 33–34% and Very Negative at 18% in every location). If this were a site-specific performance problem, we'd expect meaningfully different rates between centres. We don't see that, which points toward a shared root cause - likely tied to the customer experience itself (e.g., billing process or communication) rather than how or where a call is handled.
 
 **3. Sentiment skews negative overall.**
