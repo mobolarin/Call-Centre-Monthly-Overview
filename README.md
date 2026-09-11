@@ -59,47 +59,47 @@ The dashboard includes:
 
 **1. Average CSAT sits at 5.5/10.**
 
-![Call centre Dashboard](./Images/KPI's.png)
+![KPI's](./Images/KPI's.png)
 - The average CSAT score is 5.5 out of 10. This is a mediocre or below-average rating. However, this figure is calculated from only 37% of interactions (CSAT was not captured for majority of the calls), so it should be treated as directional rather than a fully representative organisation-wide score. It's presented here as a KPI, but any decision built on it should account for that coverage gap.
 
 **2. Negativity is not concentrated anywhere.**
    
-![Call centre Dashboard](./Images/sentiment.png)
+![Sentiment](./Images/sentiment.png)
 - Sentiment distribution is nearly identical across all four call centres (Negative sits at 33–34% and Very Negative at 18% in every location). If this were a site-specific performance problem, we'd expect meaningfully different rates between centres. We don't see that, which points toward a shared root cause - likely tied to the customer experience itself (e.g., billing process or communication) rather than how or where a call is handled.
 
 **3. Sentiment skews negative overall.**
    
-![Call centre Dashboard](./Images/sentiment.png)
+![Sentiment](./Images/sentiment.png)
 - Across all interactions: 18.3% Very Negative, 33.6% Negative, 26.6% Neutral, 11.9% Positive, 9.6% Very Positive - meaning roughly 52% of interactions land in the two negative tiers, and only about 22% are positive.
 
 **4. Volume is concentrated by geography.**
    
-![Call centre Dashboard](./Images/location.png)
+![Location](./Images/location.png)
 - Most calls originate from California, Texas, Florida, New York, and Virginia. California alone accounts for 3,631 interactions, the highest of any state.
 
 **5. Los Angeles/CA and Baltimore/MD are the most contacted centres.**
    
-![Call centre Dashboard](./Images/centres.png)
+![Centres](./Images/centres.png)
 - Los Angeles/CA handles 13,734 calls and Baltimore/MD 11,012 - together well over 70% of total volume - while Chicago/IL (5,419) and Denver/CO (2,776) handle far less. 
 
 **6. Billing Question dominates reason for contact.**
    
-![Call centre Dashboard](./Images/reason.png)
+![Reason](./Images/reason.png)
 - 23,462 of 32,941 calls (71%) are billing-related, surpassing Payments (4,749) and Service Outage (4,730), which sit at 14% each. Given that negativity is roughly flat across reasons, Billing Question is also the single largest source of negative interactions (by volume) in absolute terms, even though its rate of negativity isn't unusually high.
 
 **7. Call centre is the leading channel.**
    
-![Call centre Dashboard](./Images/channel.png)
+![Channel](./Images/channel.png)
 - Call centre handles 32.3% of volume (10,639 calls), followed by Chatbot (25.1%, 8,256), Email (22.7%, 7,470), and Web (20.0%, 6,576) - a fairly even split rather than one channel dominating outright.
 
 **8. Thursday and Friday are peak days.**
 
-![Call centre Dashboard](./Images/day.png)
+![Day](./Images/day.png)
 - Friday sees the highest volume (5,570 calls) and Thursday close behind (5,481), compared to a fair 4,300–4,450 on other days, yet sentiment holds steady across all days of the week. Volume and experience quality are independent here, which rules out a capacity-driven explanation for the negative sentiment.
   
 **9. Longer calls trend toward more negative sentiment.**
 
-![Call centre Dashboard](./Images/length_by_sentiment.png)
+![Length](./Images/length_by_sentiment.png)
 - A first look at call length by sentiment suggests Negative and Neutral interactions tend to run longer (roughly 20–40 minutes) compared to Positive interactions (roughly 10–20 minutes). This is an early observation, not yet a statistically validated relationship - a proper correlation analysis is a natural next step before treating it as a finding.
 
 ### Business Impact
