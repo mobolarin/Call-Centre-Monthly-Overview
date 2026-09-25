@@ -15,8 +15,7 @@ This project analyses 32,941 customer interactions handled by a call centre orga
 
 
 ### The Problem
-
-Sentiment across the dataset skews negative - the immediate question for the business is: **is this a localised problem (a specific centre, channel, or issue type underperforming) or a systemic one?** Those two answers point to completely different fixes - targeted retraining and staffing at a weak centre vs. a broader review of process, policy, or product experience. The analysis needed to distinguish between them before recommending anything.
+The general sentiment of the organisation skewed negative. The immediate business question is: **is this a localised problem (a specific centre, channel, or issue type underperforming) or a systemic one?**
 
 ### The Approach
 **Tools:** Excel (Power Query, PivotTables, PivotCharts)
